@@ -7,7 +7,7 @@ flake8==3.7.8
 holidays==0.13
 holidays-ext==0.0.7
 ipykernel==4.8.2
-ipython==7.1.1
+ipython==8.10.0
 ipywidgets==7.2.1
 jupyter==1.0.0
 jupyter-client==6.1.7
